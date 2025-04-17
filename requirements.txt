@@ -1,0 +1,7 @@
+langchain
+langchain_groq
+streamlit
+speechrecognition
+pyttsx3
+pyaudio
+python-dotenv
